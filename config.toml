@@ -1,0 +1,6 @@
+languageCode = "en-us"
+baseURL = ""
+title = "Andrew's Blog"
+theme="archie"
+copyright = "© Andrew Burleson"
+paginate = 5
